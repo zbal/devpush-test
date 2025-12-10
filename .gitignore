@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / secrets
+.env
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Tools
+.mypy_cache/
+.ruff_cache/
